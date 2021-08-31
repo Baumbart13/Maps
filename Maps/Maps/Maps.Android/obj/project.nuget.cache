@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6i9iZKNDK9j8lXwDFHXxRj4WUJW0MbBfQABF0FImQceCAEsDYGr1a4EN0pcsf1l0zz5F8POxPJCnTBn4fL1QGQ==",
+  "dgSpecHash": "VlZSatWU8egHTsxFI2UwUd/x0T/EccQSMKlBSEINapfXdSfoI8lflUBFU1yhIaeX9s5PY2K0oafJND419B5xDA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Michael\\Desktop\\IOS Android und sonstiges\\BadrilloxBaumbartMaps\\Maps\\Maps\\Maps.Android\\Maps.Android.csproj",
   "expectedPackageFiles": [
@@ -44,5 +44,26 @@
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ein Downgrade des Pakets \"Xamarin.Essentials\" von 1.7.0 auf 1.5.3.2 wurde festgestellt. Verweisen Sie direkt aus dem Projekt auf das Paket, um eine andere Version auszuwählen. \r\n Maps.Android -> Maps -> Xamarin.Essentials (>= 1.7.0) \r\n Maps.Android -> Xamarin.Essentials (>= 1.5.3.2)",
+      "libraryId": "Xamarin.Essentials",
+      "targetGraphs": [
+        "MonoAndroid,Version=v9.0"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ein Downgrade des Pakets \"Xamarin.Forms\" von 5.0.0.2083 auf 4.8.0.1451 wurde festgestellt. Verweisen Sie direkt aus dem Projekt auf das Paket, um eine andere Version auszuwählen. \r\n Maps.Android -> Maps -> Xamarin.Forms (>= 5.0.0.2083) \r\n Maps.Android -> Xamarin.Forms (>= 4.8.0.1451)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "MonoAndroid,Version=v9.0"
+      ]
+    }
+  ]
 }

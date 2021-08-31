@@ -788,8 +788,8 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Essentials": "1.5.3.2",
-          "Xamarin.Forms": "4.8.0.1451"
+          "Xamarin.Essentials": "1.7.0",
+          "Xamarin.Forms": "5.0.0.2083"
         },
         "compile": {
           "bin/placeholder/Maps.dll": {}
@@ -1986,5 +1986,27 @@
         }
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ein Downgrade des Pakets \"Xamarin.Essentials\" von 1.7.0 auf 1.5.3.2 wurde festgestellt. Verweisen Sie direkt aus dem Projekt auf das Paket, um eine andere Version auszuwählen. \r\n Maps.Android -> Maps -> Xamarin.Essentials (>= 1.7.0) \r\n Maps.Android -> Xamarin.Essentials (>= 1.5.3.2)",
+      "libraryId": "Xamarin.Essentials",
+      "targetGraphs": [
+        "MonoAndroid,Version=v9.0"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ein Downgrade des Pakets \"Xamarin.Forms\" von 5.0.0.2083 auf 4.8.0.1451 wurde festgestellt. Verweisen Sie direkt aus dem Projekt auf das Paket, um eine andere Version auszuwählen. \r\n Maps.Android -> Maps -> Xamarin.Forms (>= 5.0.0.2083) \r\n Maps.Android -> Xamarin.Forms (>= 4.8.0.1451)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "MonoAndroid,Version=v9.0"
+      ]
+    }
+  ]
 }
