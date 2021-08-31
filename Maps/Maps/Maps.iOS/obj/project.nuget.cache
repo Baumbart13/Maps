@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XatWABnAdYu1h6YbR5Fiwpvk1D8VP/pZAzDc4yDlXaU7czHOFubrOxE97dAwX1UpGSm8SgzCHBbdfTeyWHAgxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Michael\\Desktop\\IOS Android und sonstiges\\BadrilloxBaumbartMaps\\Maps\\Maps\\Maps.iOS\\Maps.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
