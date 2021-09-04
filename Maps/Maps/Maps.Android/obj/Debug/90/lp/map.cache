@@ -39,3 +39,7 @@ Xamarin.Android.Support.ViewPager
 Xamarin.Essentials
 Xamarin.Forms.Platform.Android
 Xamarin.Forms.Platform
+Plugin.Connectivity
+Plugin.CurrentActivity
+Plugin.Geolocator
+Plugin.Permissions
