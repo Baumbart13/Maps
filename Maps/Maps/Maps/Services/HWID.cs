@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading;
 using Xamarin.Essentials;
 using Plugin.DeviceInfo;
+using System.Threading.Tasks;
 
 namespace Maps.Services
 {
@@ -15,7 +16,7 @@ namespace Maps.Services
         {
             return CrossDeviceInfo.Current.Id;
         }
-        public static void hwid(string hwid)
+        public static async Task hwidAsync(string hwid)
         {
             using (WebClient wc = new WebClient())
             {
@@ -24,7 +25,8 @@ namespace Maps.Services
                     if (wc.DownloadString("https://pastebin.com/iDhZ16FA").Contains(hwid))
                         return;
                     Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine("Deine HWID ist: " + DeviceUID() + dc.SendtoWebhook(DeviceUID()));
+                    await dc.SendtoWebhook(DeviceUID()).ConfigureAwait(false);
+                    Console.WriteLine("Deine HWID ist: " + DeviceUID());
                     Thread.Sleep(5000);
                     Environment.Exit(0);
                 }
