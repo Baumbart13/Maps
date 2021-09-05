@@ -8,13 +8,16 @@ namespace Maps
 {
     public partial class App : Application
     {
-
+        InternetService _IS = new InternetService();
         public App()
         {
             InitializeComponent();
 
             DependencyService.Register<MockDataStore>();
-            MainPage = new AppShell();
+            if(_IS.HasConnection() == true)
+            {
+                MainPage = new AppShell();
+            }
         }
 
         protected override void OnStart()
