@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "D+eRiJHlXCFZULHWRYwM+mW8BAWjBcdoD5/p0oUaynOaAlKI8NQbef06QYVjI+t9IV6HFd+GBYg2VFbd2hMQHA==",
+  "dgSpecHash": "B+ASUeykMN7MLZBLj3q7Cv0AU2g0Tz39eL2wD8f6Bqa8bbvHsca6eKKS7vJSjZePxi8CMSgBxtVicIPsR5PYxA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Michael\\Desktop\\IOS Android und sonstiges\\BadrilloxBaumbartMaps\\Maps\\Maps\\Maps.Android\\Maps.Android.csproj",
   "expectedPackageFiles": [
@@ -63,8 +63,8 @@
     "C:\\Users\\Michael\\.nuget\\packages\\xamarin.androidx.vectordrawable.animated\\1.1.0.1\\xamarin.androidx.vectordrawable.animated.1.1.0.1.nupkg.sha512",
     "C:\\Users\\Michael\\.nuget\\packages\\xamarin.androidx.versionedparcelable\\1.1.0.1\\xamarin.androidx.versionedparcelable.1.1.0.1.nupkg.sha512",
     "C:\\Users\\Michael\\.nuget\\packages\\xamarin.androidx.viewpager\\1.0.0.1\\xamarin.androidx.viewpager.1.0.0.1.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512",
+    "C:\\Users\\Michael\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\Michael\\.nuget\\packages\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512",
     "C:\\Users\\Michael\\.nuget\\packages\\xamarin.google.android.material\\1.0.0.1\\xamarin.google.android.material.1.0.0.1.nupkg.sha512"
   ],
   "logs": [

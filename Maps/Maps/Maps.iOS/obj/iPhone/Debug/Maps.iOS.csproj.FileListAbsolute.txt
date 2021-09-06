@@ -62,13 +62,13 @@ C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Ma
 C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
 C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps.iOS\bin\iPhone\Debug\Maps.pdb
 C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
-C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
 C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
 C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
 C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
 C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
 C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps.iOS\obj\iPhone\Debug\optimized\
-C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps.iOS\obj\iPhone\Debug\Maps.iOS.csprojAssemblyReference.cache
+C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps.iOS\obj\iPhone\Debug\Maps.iOS.csproj.AssemblyReference.cache
 C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps.iOS\obj\iPhone\Debug\Maps.iOS.csproj.CoreCompileInputs.cache
 C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps.iOS\obj\iPhone\Debug\Maps.iOS.csproj.CopyComplete
 C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps.iOS\obj\iPhone\Debug\Maps.iOS.exe

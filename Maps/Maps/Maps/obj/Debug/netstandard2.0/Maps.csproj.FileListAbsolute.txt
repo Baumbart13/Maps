@@ -2,6 +2,8 @@ C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Ma
 C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps\bin\Debug\netstandard2.0\Maps.dll
 C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps\bin\Debug\netstandard2.0\ref\Maps.dll
 C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps\bin\Debug\netstandard2.0\Maps.pdb
+C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps\obj\Debug\netstandard2.0\Maps.csproj.AssemblyReference.cache
+C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps\obj\Debug\netstandard2.0\Maps.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
 C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
@@ -16,4 +18,3 @@ C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Ma
 C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps\obj\Debug\netstandard2.0\Maps.dll
 C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps\obj\Debug\netstandard2.0\ref\Maps.dll
 C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps\obj\Debug\netstandard2.0\Maps.pdb
-C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps\obj\Debug\netstandard2.0\Maps.csprojAssemblyReference.cache
