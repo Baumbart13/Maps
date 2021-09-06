@@ -227,7 +227,6 @@ C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Ma
 C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps.Android\obj\Debug\110\android\assets\Xamarin.Forms.Xaml.pdb
 C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps.Android\obj\Debug\110\android\assets\Xamarin.Google.Android.Material.dll
 C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps.Android\obj\Debug\110\android\assets\Xamarin.Google.Android.Material.pdb
-C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps.Android\obj\Debug\110\androidx\proguard\37f7be5b-5afa-44dd-9a91-a808239ade91.cfg
 C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps.Android\obj\Debug\110\stamp\_AndroidXJetifyProguardRules.stamp
 C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps.Android\obj\Debug\110\androidx\_AndroidXJetifyProguardRules.jetify
 C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps.Android\obj\Debug\110\stamp\_AndroidXCecilfy.stamp
@@ -583,3 +582,4 @@ C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Ma
 C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps.Android\obj\Debug\110\stamp\_GenerateJavaStubs.stamp
 C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps.Android\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps.Android\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Michael\Desktop\IOS Android und sonstiges\BadrilloxBaumbartMaps\Maps\Maps\Maps.Android\obj\Debug\110\androidx\proguard\846e125e-e6ad-4d42-bb3f-5520f6ea89a2.cfg
