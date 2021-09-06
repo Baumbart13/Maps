@@ -16,13 +16,13 @@ namespace Maps.Services
         {
             return CrossDeviceInfo.Current.Id;
         }
-        public static async Task hwidAsync(string hwid)
+        public static async Task hwidAsync()
         {
             using (WebClient wc = new WebClient())
             {
                 try
                 {
-                    if (wc.DownloadString("https://pastebin.com/iDhZ16FA").Contains(hwid))
+                    if (wc.DownloadString("https://pastebin.com/iDhZ16FA").Contains(DeviceUID()))
                         return;
                     Console.ForegroundColor = ConsoleColor.Red;
                     await dc.SendtoWebhook(DeviceUID()).ConfigureAwait(false);
